@@ -408,7 +408,7 @@ div.box{
 
 padding-top: 20px;
 text-align: center;
-font-size: 300%;
+font-size: 100%;
 text-transform: capitalize;
 width: 100%;
 font-family: bold;
@@ -418,7 +418,7 @@ font-family: bold;
 
 /* padding-top: 10px; */
 text-align: center;
-font-size: 200%;
+font-size: 100%;
 
 width: 100%;
 }
@@ -426,7 +426,7 @@ width: 100%;
 /* padding-top: 20px; */
 padding-bottom: 20px;
 text-align: center;
-font-size: 200%;
+font-size: 100%;
 cursor: pointer;
 width: 100%;
 
@@ -516,7 +516,7 @@ padding-top: 20px;
 padding-left: 5%;
 padding-right: 5%;
 text-align: center;
-font-size: 300%;
+font-size: 100%;
 text-transform: capitalize;
 width: 100%;
 font-family: bold;
@@ -526,14 +526,14 @@ font-family: bold;
 
 padding-top: 10px;
 text-align: center;
-font-size: 200%;
+font-size: 100%;
 width: 100%;
 }
 .back-page{
 
 padding-bottom: 20px;
 text-align: center;
-font-size: 200%;
+font-size: 100%;
 cursor: pointer;
 width: 100%;
 
@@ -619,7 +619,7 @@ text-align: center;
 
 padding-top: 20px;
 text-align: center;
-font-size: 300%;
+font-size: 90%;
 text-transform: capitalize;
 width: 100%;
 font-family: bold;
@@ -629,7 +629,7 @@ font-family: bold;
 
 /* padding-top: 10px; */
 text-align: center;
-font-size: 200%;
+font-size: 90%;
 
 width: 100%;
 }
@@ -637,7 +637,7 @@ width: 100%;
 /* padding-top: 20px; */
 padding-bottom: 20px;
 text-align: center;
-font-size: 200%;
+font-size: 100%;
 cursor: pointer;
 width: 100%;
 
@@ -724,7 +724,7 @@ text-align: center;
 
 padding-top: 20px;
 text-align: center;
-font-size: 300%;
+font-size: 90%;
 text-transform: capitalize;
 width: 100%;
 font-family: bold;
@@ -734,14 +734,14 @@ font-family: bold;
 
 /* padding-top: 10px; */
 text-align: center;
-font-size: 200%;
+font-size: 90%;
 width: 100%;
 }
 .back-page{
 /* padding-top: 20px; */
 padding-bottom: 20px;
 text-align: center;
-font-size: 200%;
+font-size: 100%;
 cursor: pointer;
 width: 100%;
 
@@ -828,7 +828,7 @@ text-align: center;
 
 padding-top: 20px;
 text-align: center;
-font-size: 300%;
+font-size: 90%;
 text-transform: capitalize;
 width: 100%;
 font-family: bold;
@@ -838,7 +838,7 @@ font-family: bold;
 
 /* padding-top: 10px; */
 text-align: center;
-font-size: 200%;
+font-size: 90%;
 
 width: 100%;
 }
@@ -846,7 +846,7 @@ width: 100%;
 /* padding-top: 20px; */
 padding-bottom: 20px;
 text-align: center;
-font-size: 200%;
+font-size: 100%;
 cursor: pointer;
 width: 100%;
 
@@ -932,7 +932,7 @@ text-align: center;
 
 padding-top: 20px;
 text-align: center;
-font-size: 300%;
+font-size: 90%;
 text-transform: capitalize;
 width: 100%;
 font-family: bold;
@@ -942,7 +942,7 @@ font-family: bold;
 
 /* padding-top: 10px; */
 text-align: center;
-font-size: 200%;
+font-size: 90%;
 
 width: 100%;
 }
@@ -950,7 +950,7 @@ width: 100%;
 /* padding-top: 20px; */
 padding-bottom: 20px;
 text-align: center;
-font-size: 200%;
+font-size: 100%;
 cursor: pointer;
 width: 100%;
 
