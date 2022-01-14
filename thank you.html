@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="all">
+    <div class="box">
+        <form id="box">
+            <div id="thank">
+                <div id="info">
+                    <h2>You have Successfully Registered!</h2>
+                </div>
+
+                <div class="back-page">
+                    <a href="index.html">Back to Page</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+<script>
+    const resulist= document.getElementById('thank')
+    new URLSearchParams(Window.location.search).forEach((value,name)=>{
+
+
+        if(name==="fname"){
+            resulist.append("Welcome " + value + " to f-f ")
+            resulist.append(document.createElement(''))
+        }
+    })
+</script>
+
+
+</body>
+</html>
